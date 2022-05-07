@@ -3,8 +3,8 @@ import re
 import time 
 from partthree import *
 from assert_agg import *
-from gen_data_pre import *
-from generate_plot import *
+from gen-figures1 import *
+from gen-figures2 import *
 import subprocess 
 
 
